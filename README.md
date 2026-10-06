@@ -11,7 +11,7 @@
 <a href="https://github.com/Toko122/Toko122">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR-LINKEDIN-URL">
+<a href="www.linkedin.com/in/toko-migineishvili-a19770370">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -183,7 +183,7 @@ I'm always looking for the next thing to learn, the next problem to solve, and t
   <img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR-LINKEDIN-URL">
+<a href="www.linkedin.com/in/toko-migineishvili-a19770370">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
