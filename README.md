@@ -2,17 +2,17 @@
 
 # 👋 Hi, I'm Toko Migineishvili
 
-### 💻 Middle Full-Stack Developer · DevOps · IT Technician
+### 💻 Middle Full-Stack Developer · DevOps · IT Specialist
 
-**2+ years of hands-on experience building modern web applications, working with infrastructure, and solving real-world technical problems.**
+**Full-Stack Developer with 2+ years of hands-on experience in software development, IT, infrastructure, and real-world technical problem solving.**
 
 <br/>
 
-<a href="https://github.com/Toko122">
-  <img src="https://img.shields.io/github/followers/Toko122?label=Followers&style=for-the-badge&logo=github" />
+<a href="https://github.com/Toko122/Toko122">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/Toko122">
-  <img src="https://komarev.com/ghpvc/?username=Toko122&style=for-the-badge&color=blueviolet" />
+<a href="YOUR-LINKEDIN-URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -21,33 +21,51 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Middle Full-Stack Developer** with **2+ years of practical experience** in software development and IT.
+I'm a **Middle Full-Stack Developer and IT Specialist** with **2+ years of practical experience** working with modern web technologies, backend systems, databases, Linux environments, infrastructure, and technical support.
 
-I enjoy turning ideas into functional, reliable, and well-structured digital products. My main focus is full-stack web development, but I'm also deeply interested in **DevOps, Linux, cloud infrastructure, system administration, and cybersecurity**.
+My primary focus is **full-stack web development**, where I enjoy building applications from the ground up — from designing responsive interfaces and developing APIs to working with databases, authentication, deployment, and production environments.
 
-What I enjoy most about technology is not simply writing code — it's understanding **how everything works together**.
+At the same time, I'm strongly interested in the infrastructure side of technology. I enjoy working with **Linux, servers, networking, Nginx, deployment processes, DevOps practices, and system administration**.
 
-From designing a user interface and building an API, to working with databases, configuring a Linux server, setting up Nginx, deploying applications, and troubleshooting infrastructure, I like being involved in the complete development process.
+What motivates me most is understanding how systems work as a whole.
 
-I'm constantly learning, experimenting, and improving my skills through real-world work and hands-on practice.
+I don't see development, infrastructure, and IT as completely separate areas. For me, they are different parts of the same ecosystem — and understanding how they connect makes me a better engineer.
 
-> **I don't want to just use technology — I want to understand it.**
+I'm naturally curious, enjoy solving technical problems, and prefer learning through **hands-on experience, experimentation, and real-world challenges**.
+
+> **I don't want to just make things work — I want to understand why they work.**
 
 ---
 
 ## 🚀 What I Do
 
-* 💻 Build modern full-stack web applications
-* 🎨 Create responsive and user-friendly interfaces
-* ⚙️ Develop backend services and REST APIs
-* 🗄️ Design and work with relational and NoSQL databases
-* 🔐 Implement authentication and authorization systems
-* 🐧 Work with Linux and server environments
-* 🌐 Configure web servers and application deployments
-* 🔄 Work with Git and CI/CD workflows
-* ☁️ Explore cloud technologies and infrastructure
-* 🛠️ Troubleshoot software, hardware, and networking issues
-* 📚 Continuously learn new technologies and development practices
+### 💻 Software Development
+
+* Build modern full-stack web applications
+* Develop responsive and user-focused interfaces
+* Design and develop REST APIs
+* Work with relational and NoSQL databases
+* Implement authentication and authorization
+* Build scalable and maintainable application structures
+* Work with modern JavaScript and TypeScript ecosystems
+
+### ⚙️ DevOps & Infrastructure
+
+* Work with Linux-based environments
+* Configure and manage web servers
+* Deploy and maintain web applications
+* Work with Nginx, SSH, PM2, and CI/CD workflows
+* Explore containerization and cloud infrastructure
+* Troubleshoot application and server-level issues
+
+### 🖥️ IT & Technical Support
+
+* Diagnose and troubleshoot hardware and software problems
+* Install and configure operating systems
+* Work with computer hardware and system configuration
+* Configure basic network environments
+* Troubleshoot connectivity and infrastructure issues
+* Provide practical technical solutions in real-world environments
 
 ---
 
@@ -59,7 +77,7 @@ I'm constantly learning, experimenting, and improving my skills through real-wor
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
@@ -71,98 +89,102 @@ I'm constantly learning, experimenting, and improving my skills through real-wor
   <img src="https://skillicons.dev/icons?i=linux,nginx,docker,githubactions,git,github,cloudflare" />
 </p>
 
-### 🔧 Tools & Workflow
+### 🔧 Tools & Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,powershell,bash" />
+  <img src="https://skillicons.dev/icons?i=vscode,bash,powershell,postman" />
 </p>
 
 ---
 
-## 💡 My Approach
+## 🧠 How I Think About Technology
 
-I believe good development is about more than making something work.
+### 🔍 Understand Before Building
 
-I care about:
+I believe that knowing *how* to use a technology is not enough.
 
-**🧠 Understanding**
-I prefer understanding why something works instead of simply copying a solution.
+I try to understand the underlying concepts, because strong fundamentals make it easier to solve unfamiliar problems.
 
-**🧩 Problem Solving**
-When something breaks, I enjoy investigating the root cause and finding a reliable solution.
+### 🧩 Problem Solving
 
-**🏗️ Clean Architecture**
-I try to keep applications structured, maintainable, and easy to understand.
+When something doesn't work, I enjoy going beyond the obvious fix.
 
-**🔐 Security**
-Authentication, authorization, data validation, secure APIs, and infrastructure security are important parts of how I approach development.
+I like breaking problems down, investigating the cause, testing possible solutions, and understanding what actually happened.
 
-**📈 Continuous Improvement**
-Technology changes constantly, so I believe staying curious and continuously improving is essential.
+### 🏗️ Build With Purpose
+
+Good software should not only work today.
+
+I care about creating systems that are understandable, maintainable, reliable, and practical to develop further.
+
+### 🔐 Security Mindset
+
+Security is an important part of modern development and infrastructure.
+
+I pay attention to authentication, authorization, validation, API security, server configuration, and the potential impact of technical decisions.
+
+### 📈 Continuous Growth
+
+Technology changes quickly.
+
+I actively expand my knowledge by working with new technologies, experimenting with different environments, and challenging myself with problems outside my current comfort zone.
 
 ---
 
 ## 🌱 Currently Exploring
 
-I'm currently expanding my knowledge beyond traditional full-stack development and focusing more on:
+I'm continuously expanding my knowledge across several areas of technology:
 
-* 🐧 Advanced Linux
-* 🐳 Docker & containerization
-* ☁️ Cloud & infrastructure
-* 🔄 CI/CD & DevOps
-* 🏗️ System Design
-* 🔐 Cybersecurity
-* 🤖 AI Engineering
-* ⚡ Performance & scalability
-
----
-
-## 🎯 My Goal
-
-My long-term goal is to become a highly capable engineer who understands the **entire lifecycle of a software system** — from writing the first line of code to deploying, securing, monitoring, and maintaining it in production.
-
-I want to keep growing across **software development, infrastructure, DevOps, cloud, and cybersecurity**, while continuing to build things that are useful in the real world.
+* 🐧 **Advanced Linux & System Administration**
+* 🐳 **Docker & Containerization**
+* ☁️ **Cloud Infrastructure**
+* 🔄 **DevOps & CI/CD**
+* 🏗️ **System Design & Architecture**
+* 🔐 **Cybersecurity**
+* 🤖 **AI Engineering**
+* ⚡ **Performance & Scalability**
+* 🌐 **Networking & Infrastructure**
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 Professional Direction
+
+My goal is to grow into an engineer with a strong understanding of the **complete software lifecycle**.
+
+From:
+
+**Idea → Development → Database → API → Infrastructure → Deployment → Security → Monitoring → Maintenance**
+
+I want to continue developing my expertise across **Full-Stack Development, DevOps, IT Infrastructure, Cloud, and Cybersecurity**, while building a strong engineering mindset along the way.
+
+I believe that the strongest engineers are not limited to one layer of a system — they understand how the layers communicate and how decisions in one area affect everything else.
+
+---
+
+## 💬 A Little More About Me
+
+I'm someone who genuinely enjoys technology.
+
+I can spend hours investigating a technical problem simply because I want to understand what caused it.
+
+Whether it's writing code, configuring a Linux server, troubleshooting a system, understanding a network, or learning a completely new technology, I enjoy the process of figuring things out.
+
+I'm always looking for the next thing to learn, the next problem to solve, and the next level to reach.
+
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toko122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toko122&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+### ⚡ Build. Learn. Break. Fix. Improve.
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Toko122&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Toko122">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Toko122/Toko122">
+  <img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="YOUR-LINKEDIN-URL">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ⚡ Build. Learn. Break. Fix. Repeat.
 
 </div>
